@@ -1,10 +1,10 @@
 # Resource_for_data_driven_decisions
-## Here are some good resources to enhance your Data Driven Decisions
-## It's from my LinkedIn repost and I do find it's quite useful. So mark here. Please feel free to folk.
+
+## Here are some good resources to enhance your Data Driven Decisions.It's from my LinkedIn repost(credited to Randy Lao) and I do find it's quite useful. So mark here. Please feel free to folk.
 
 - - -
 1. Introduction to Business Analytics (YouTube ~20min)
-[](https://lnkd.in/gxq2EFc)
+https://lnkd.in/gxq2EFc
 
 2. Data Science For Business (Free E-Book: Must Read)
 https://lnkd.in/g5H7G2b
@@ -34,8 +34,8 @@ https://lnkd.in/gXZwHFY
 https://lnkd.in/gdvstQU
 
 - - -
-#DataScience is all about how you can use Data to make, recommend, or inform about your actionable insights. You don't just analyze data. You need to understand how Data can be used to make better decisions and build better products.. 
+## DataScience is all about how you can use Data to make, recommend, or inform about your actionable insights. You don't just analyze data. You need to understand how Data can be used to make better decisions and build better products.. 
 
-The tools can only do so much. 
+## The tools can only do so much. 
 
-It all comes back down to your analytical skills and how you can contribute your findings to your team. 
+## It all comes back down to your analytical skills and how you can contribute your findings to your team. 
