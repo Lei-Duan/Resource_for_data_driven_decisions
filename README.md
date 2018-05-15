@@ -1,6 +1,8 @@
 # Resource_for_data_driven_decisions
 
-## Here are some good resources to enhance your Data Driven Decisions.It's from my LinkedIn repost(credited to Randy Lao) and I do find it's quite useful. So mark here. Please feel free to folk.
+## Here are some good resources to enhance your Data Driven Decisions.It's from my LinkedIn repost(credited to Randy Lao) and I do find it's quite useful. So I mark here. 
+
+## Please feel free to folk if you feel in need of some DA/DS 101.
 
 - - -
 1. Introduction to Business Analytics (YouTube ~20min)
